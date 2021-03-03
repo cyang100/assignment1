@@ -1,0 +1,1 @@
+This code is used for automatically download pics from research on the website for each item from the provided product list.
